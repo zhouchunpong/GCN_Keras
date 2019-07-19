@@ -39,7 +39,7 @@ Test accuracy: 0.8139998912811279
 
 
 
-![avatar](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/024Programmer_程序员👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻👩🏻‍💻👨‍💻‍BQB/94E1492CFB2FC327FAB3D7C484C0E7D9.jpg
+![avatar](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/024Programmer_程序员👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻👩🏻‍💻👨‍💻‍BQB/89E42AEF082690539C7780142B7EE5F3.png
 )
 
 
