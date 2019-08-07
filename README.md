@@ -1,4 +1,4 @@
-# 使用Keras实现的图卷积神经网络 A Simplified Graph Convolutional Network with Keras
+# 使用Keras实现的图卷积神经网络  Semi-supervised classification by Graph Convolutional Network with Keras
 
 **Clike Here for** [English Version](#English_Version)
 
@@ -44,7 +44,7 @@ Test accuracy: 0.8139998912811279
 
 
 # English_Version
-## A Simplified Graph Convolutional Network with Keras
+##  Semi-supervised classification by Graph Convolutional Network with Keras
 Keras-based implementation of graph convolutional networks **(GCN)** for semi-supervised classification. Rewrite a part of main function and some utils which is more simple compared the author's implementation. Thanks for his open source code at the following links :
 
 1. TensorFlow : <https://github.com/tkipf/gcn>
