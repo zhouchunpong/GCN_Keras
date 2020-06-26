@@ -1,6 +1,7 @@
 # Semi-supervised classification by Graph Convolutional Network with Keras 使用Keras实现的图卷积神经网络
 
 **Clike Here for** [English Version](#English_Version)
+**Attention！由于Python第三方库更新频繁，请确保使用的库版本与requirement.txt中的保持一致，否则容易出现不兼容的情况**
 
 使用Keras实现，用于半监督节点分类的图卷积神经网络。相比如作者提供的源代码，重写了部分主函数和功能块，使其比源代码更加简洁同时算法的性能与原论文中描述结果保持一致。感谢大佬的开源代码：
 
