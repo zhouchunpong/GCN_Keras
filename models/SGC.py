@@ -1,3 +1,4 @@
+# An unofficial reference code for Simplifying Graph Convolutional Networks (SGC, ICML 2019)
 from __future__ import print_function
 
 from keras.layers import Input, Dropout
