@@ -4,4 +4,4 @@ numpy==1.16.4
 networkx==2.1
 tensorflow_gpu==1.14.0
 scikit_learn==0.21.2
-tensorflow==1.14.0
+tensorflow==1.15.4
